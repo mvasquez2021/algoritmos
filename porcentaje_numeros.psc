@@ -1,4 +1,4 @@
-Algoritmo restodivision_numeros
+Algoritmo procentaje_numeros
 	Definir a Como Entero
 	Definir b Como Entero
 	
@@ -7,6 +7,6 @@ Algoritmo restodivision_numeros
 	Escribir "Ingresa valor del segundo número"
 	leer b
 	
-	Escribir "Resultado del Porcentaje: " (a % b )
+	Escribir "Resultado de Porcentaje: " (a * b) / 100
 	
 FinAlgoritmo
